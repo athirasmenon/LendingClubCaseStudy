@@ -18,5 +18,5 @@ The company can utilize this knowledge for its portfolio and risk assessment.
 
 ### Contributors
 * [Pooja Dalvi](https://github.com/beingpooja)
-* [Athira Menon]
+* [Athira Menon](https://github.com/athirasmenon)
 
